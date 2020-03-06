@@ -1,6 +1,6 @@
-# calculate_work_hours_app
+# Test flutter project
 
-A new Flutter application.
+Project for portfolio with bloc architecture 
 
 ## Getting Started
 
